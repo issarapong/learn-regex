@@ -28,9 +28,9 @@
 * [Magyar](translations/README-hu.md)
 * [Polish](translations/README-pl.md)
 
-## What is Regular Expression?
+## อะไรคือ Regular Expression?
 
-> Regular expression is a group of characters or symbols which is used to find a specific pattern from a text.
+> Regular expression คือกลุ่มคำหรือ หรือ สัญลักษณ์ ที่ใช้ค้นหาข้อมความ ตามรูปแบบตามที่เราต้องการค้นหา.
 
 A regular expression is a pattern that is matched against a subject string from
 left to right. The word "Regular expression" is a mouthful, you will usually
